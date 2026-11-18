@@ -1,0 +1,12 @@
+1. Set env
+    Instaññ Pygame, create the project and execute it.
+2. Create the board
+   Config dimensions, colors, squakes and FPs.
+3. Snake Develop
+   Coordenades, lists, movement and key controls
+4. Add food
+   Generate food and make snake longer
+5. Implemten rules
+   Colisions, points, game over and restart
+6. Improve Game
+   Initial menu, progresive dificulty, records and visual effects.
